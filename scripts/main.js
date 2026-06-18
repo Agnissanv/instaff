@@ -168,7 +168,7 @@ document.addEventListener('DOMContentLoaded', () => {
             }
 
             // Identifiant WhatsApp de destination
-            const targetPhoneNumber = "2250769398708";  // ← LE BON NUMÉRO MAINTENANT
+            const targetPhoneNumber = "2250707502613";  // ← LE BON NUMÉRO MAINTENANT
 
             // Structuration sémantique du message
             let formattedText = `*⚙️ NOUVELLE DEMANDE DE DEVIS PLAFOND*\n`;
